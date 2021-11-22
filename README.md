@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am an engineer with an entrepreuneurial mindset. I love working on new challenges.
+I am an engineer and an entrepreneur. I love working on new challenges.
 
 - 👉 Most notably, I've been the CEO of [Keplair](https://www.keplair.com) for a year. In one year, I learned more than I ever dreamed of.
 - 🛠 I am the creator & maintainer of [Sandstone](https://www.sandstone.dev), an open-source framework for Minecraft Datapacks generation.
