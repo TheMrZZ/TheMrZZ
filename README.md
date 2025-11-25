@@ -6,7 +6,7 @@ I am a software, data engineer and an entrepreneur. I love working on new challe
 
 - I owned the Data Infrastructure of Alan, the one-stop health assistant that covers all your neers - from insurance to health. 
 
-- I've been the CEO of [Keplair](https://www.keplair.com) for a year. In one year, I learned more than I ever dreamed of.
+- I've been the CEO of [Keplair](https://www.keplair.com) for quite some time. I learned more than I could ever have dreamed of.
 
 - 🛠 I am the creator & maintainer of [Sandstone](https://www.sandstone.dev), an open-source framework for Minecraft Datapacks generation.
 
