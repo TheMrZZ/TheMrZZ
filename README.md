@@ -2,7 +2,7 @@
 
 I am a software, data engineer and an entrepreneur. I love working on new challenges.
 
-- I now work at Kradle AI - the future of models evaluation, alongside the founder of Firebase & Tensorflow's former product lead. More coming soon!
+- I now work at [kradle.ai](https://www.kradle.ai) - the future of models evaluation, alongside the founder of Firebase & Tensorflow's former product lead. More coming soon!
 
 - I owned the Data Infrastructure of Alan, the one-stop health assistant that covers all your neers - from insurance to health. 
 
